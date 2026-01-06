@@ -5,7 +5,7 @@
 -  🎨 Have a **_simple UI/UX_** base (wireframe & basic design)
 --- 
 ## 🙋‍♀️ About Me
-Salam kenal, saya nesya pemula yang masi banyak belajar dan terus explore dunia _IT_
+Salam kenal, saya nesya pemula yang masi banyak belajar dan terus explore dunia _IT._
 Sedang mengembangkan _skill_ di pemrograman web dan desain antarmuka sederhana
 
 ----
